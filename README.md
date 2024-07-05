@@ -65,7 +65,7 @@ cd <源码所在目录>
 
 （2）创建激活conda环境
 ```shell
-conda create -n videoEnv python=3.8
+conda create -n videoEnv python=3.10
 ```
 
 ```shell
